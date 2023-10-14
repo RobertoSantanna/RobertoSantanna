@@ -3,7 +3,7 @@
 
 - 🌱 No momento estou aprendendo **Desenvolvimento de software e Microsserviços**
 
-- 💬 Pergunte-me sobre **Java, Python, Cibersegurança**
+- 💬 Pergunte-me sobre **Java**
 
 - 📫 Como me encontrar **https://www.linkedin.com/in/robertosantanasilva/**
 
