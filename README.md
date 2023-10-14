@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Roberto Santana</h1>
 <h3 align="center">Um desenvolvedor back-end</h3>
 
-- 🌱 No momento estou aprendendo **Desenvolvimento de software e Microsserviços**
-
-- 💬 Pergunte-me sobre **Java**
+- 🌱 No momento estou aprendendo **Software Development e microservices**
 
 - 📫 Como me encontrar **https://www.linkedin.com/in/robertosantanasilva/**
 
